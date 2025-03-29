@@ -7,3 +7,4 @@
 #data files
 *.npz
 *.root
+*.pdf
