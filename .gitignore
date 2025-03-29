@@ -1,0 +1,9 @@
+# Backup files
+*~
+
+# Compiled shared objects
+*.so
+
+#data files
+*.npz
+*.root
